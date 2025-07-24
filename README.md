@@ -50,4 +50,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/An1117/DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/An1117/DSA/tree/master/0191-number-of-1-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/An1117/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
