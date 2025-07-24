@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/An1117/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/An1117/DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/An1117/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/An1117/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/An1117/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
