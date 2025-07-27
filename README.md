@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/An1117/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/An1117/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/An1117/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/An1117/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
+| [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/An1117/DSA/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
