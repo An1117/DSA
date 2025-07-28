@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/An1117/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/An1117/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/An1117/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/An1117/DSA/tree/master/0747-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/An1117/DSA/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,8 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
+| [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
