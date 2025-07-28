@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/An1117/DSA/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 ## String
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
