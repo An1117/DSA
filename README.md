@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/An1117/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/An1117/DSA/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/An1117/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/An1117/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/An1117/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/An1117/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/An1117/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/An1117/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/An1117/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/An1117/DSA/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -88,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
