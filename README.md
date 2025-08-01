@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/An1117/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/An1117/DSA/tree/master/0057-insert-interval) |
 | [0136-single-number](https://github.com/An1117/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
@@ -103,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/An1117/DSA/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
