@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/An1117/DSA/tree/master/0057-insert-interval) |
 | [0136-single-number](https://github.com/An1117/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/An1117/DSA/tree/master/0152-maximum-product-subarray) |
