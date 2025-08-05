@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/An1117/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/An1117/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/An1117/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/An1117/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/An1117/DSA/tree/master/0031-next-permutation) |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 ## Depth-First Search
 |  |
