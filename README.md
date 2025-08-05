@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/An1117/DSA/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/An1117/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/An1117/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/An1117/DSA/tree/master/0057-insert-interval) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/An1117/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/An1117/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 ## Memoization
 |  |
