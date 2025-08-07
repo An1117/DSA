@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/An1117/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/An1117/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/An1117/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/An1117/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/An1117/DSA/tree/master/0435-non-overlapping-intervals) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/An1117/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
