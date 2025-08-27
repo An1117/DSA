@@ -13,9 +13,8 @@ public:
             }
     };
 
-    Node* head = new Node(-1, -1);
-    Node* tail = new Node(-1, -1);
-
+    Node* head  = new Node(-1, -1); 
+    Node* tail  = new Node(-1, -1); 
     int cap;
     unordered_map<int, Node*> m;
 
@@ -25,24 +24,24 @@ public:
         tail->prev = head;
     }
     
-    void addNode(Node* newnode){
+    void addNode(Node* newNode){
         Node* temp = head->next;
 
-        newnode->next = temp;
-        newnode->prev = head;
+        newNode->next = temp;
+        newNode->prev = head;
 
-        head->next = newnode;
-        temp->prev = newnode;
+        head->next = newNode;
+        temp->prev = newNode;
     }
 
-    void deleteNode(Node* delnode){
-        Node* prevv = delnode->prev;
-        Node* nextt = delnode->next;
+    void deleteNode(Node* delNode){
+        Node* prevv = delNode->prev;
+        Node* nextt = delNode->next;
 
         prevv->next = nextt;
         nextt->prev = prevv;
     }
-
+    
     int get(int key) {
         if(m.find(key) != m.end()){
             Node* resNode = m[key];
@@ -71,7 +70,8 @@ public:
         }
 
         addNode(new Node(key, value));
-        m[key]= head->next;
+        m[key] = head->next;
+        
     }
 };
 
