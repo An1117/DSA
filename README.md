@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/An1117/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/An1117/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/An1117/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/An1117/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 ## String
@@ -148,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/An1117/DSA/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/An1117/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/An1117/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/An1117/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
