@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/An1117/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/An1117/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/An1117/DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/An1117/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/An1117/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/An1117/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/An1117/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/An1117/DSA/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/An1117/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/An1117/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/An1117/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/An1117/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/An1117/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
 ## Math
