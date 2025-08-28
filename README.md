@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/An1117/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/An1117/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/An1117/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/An1117/DSA/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/An1117/DSA/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/An1117/DSA/tree/master/0371-sum-of-two-integers) |
 ## Sorting
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/An1117/DSA/tree/master/0146-lru-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/An1117/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
