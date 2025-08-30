@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/An1117/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/An1117/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/An1117/DSA/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 ## Trie
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/An1117/DSA/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/An1117/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
