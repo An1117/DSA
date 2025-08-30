@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/An1117/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/An1117/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/An1117/DSA/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/An1117/DSA/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/An1117/DSA/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/An1117/DSA/tree/master/1250-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
