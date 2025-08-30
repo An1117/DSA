@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/An1117/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/An1117/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/An1117/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/An1117/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/An1117/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/An1117/DSA/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/An1117/DSA/tree/master/0064-minimum-path-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/An1117/DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/An1117/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/An1117/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0695-max-area-of-island](https://github.com/An1117/DSA/tree/master/0695-max-area-of-island) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/An1117/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/An1117/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/An1117/DSA/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/An1117/DSA/tree/master/0371-sum-of-two-integers) |
