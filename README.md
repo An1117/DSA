@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/An1117/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/An1117/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/An1117/DSA/tree/master/0031-next-permutation) |
+| [0295-find-median-from-data-stream](https://github.com/An1117/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/An1117/DSA/tree/master/0647-palindromic-substrings) |
 ## Depth-First Search
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/An1117/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/An1117/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/An1117/DSA/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/An1117/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/An1117/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/An1117/DSA/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/An1117/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/An1117/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/An1117/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/An1117/DSA/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/An1117/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
