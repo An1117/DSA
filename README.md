@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/An1117/DSA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/An1117/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/An1117/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/An1117/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/An1117/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/An1117/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/An1117/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Recursion
 |  |
 | ------- |
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/An1117/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/An1117/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
